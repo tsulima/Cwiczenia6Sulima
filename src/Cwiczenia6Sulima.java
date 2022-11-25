@@ -20,8 +20,11 @@ public class Cwiczenia6Sulima {
 
     public static void Zadanie1Sulima(){
         System.out.println("Dodawanie nowej osoby:");
-        Osoba osoba1 = new Osoba();
-        osoba1.Drukuj();
+        //Osoba osoba1 = new Osoba();
+        //osoba1.Drukuj();
+        Kadra kadra = new Kadra();
+        //kadra.Inicjuj1();
+        kadra.Drukuj1();
         //System.out.println("Dodawanie nowej kadry");
 
     }
