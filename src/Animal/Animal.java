@@ -2,7 +2,7 @@ package Animal;
 import java.util.Scanner;
 
 
-public class Animal {
+public abstract class Animal {
         //Zmienne
     String name;
     Integer age;
